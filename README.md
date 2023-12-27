@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rano-K's%20Github&fontSize=50" />
 </div>
 <div align=center>
-	<h3>🧰 Once I used this.. 🧰</h3>
+	<h3>🧰 Plz come to my website and see all my profile 🧰</h3>
+	
 </div>
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
