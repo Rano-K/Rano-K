@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Rano's%20DeveloperPage&color=#ff000000&height=350">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rano-K's%20Github&fontSize=50" />
 </div>
 <div align=center>
 	<h3>🧰 Once I used this.. 🧰</h3>
