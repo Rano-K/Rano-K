@@ -6,7 +6,6 @@
 	
 </div>
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <div align=center>
 	<a href="mailto:minsoo0704@naver.com">
 		<img src="https://img.shields.io/badge/GMail-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
@@ -15,6 +14,7 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
 <!-- 	<a href="https://www.youtube.com/@Rano-K">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 		<img src="https://img.shields.io/badge/Youtube-EE0000?style=for-the-badge&logo=Youtube&logoColor=white" />
 	</a> -->
 	<br>
