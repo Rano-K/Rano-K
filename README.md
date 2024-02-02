@@ -14,9 +14,9 @@
 	<a href="https://rano-k.notion.site/Rano-K-871962e09b1d48049a7a44288847bbbd?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
-	<a href="https://www.youtube.com/@Rano-K">
+<!-- 	<a href="https://www.youtube.com/@Rano-K">
 		<img src="https://img.shields.io/badge/Youtube-EE0000?style=for-the-badge&logo=Youtube&logoColor=white" />
-	</a>
+	</a> -->
 	<br>
 </div>
 
