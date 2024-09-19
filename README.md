@@ -44,9 +44,15 @@ Here are some ideas to get you started:
 <div align="center">
 <!--Swift, SwiftUI-->
   <img alt="SwiftUI" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
-  <img alt="Swift" src ="https://img.shields.io/badge/SwiftUI-07bbfc.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
-	
-  <img alt="Python" src ="https://img.shields.io/badge/swiftUI.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
+  <img alt="Swift" src ="https://img.shields.io/badge/SwiftUI-034be7.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
+  <img alt="Python" src ="https://img.shields.io/badge/Python-e73803.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="Swift" src ="https://img.shields.io/badge/SwiftUI-034be7.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
+  <img alt="Swift" src ="https://img.shields.io/badge/SwiftUI-034be7.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
+  <img alt="Swift" src ="https://img.shields.io/badge/SwiftUI-034be7.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
+
+
+
+ 
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
