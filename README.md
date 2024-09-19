@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 <h3 align="center"></> Language </></h3>
 <div align="center">
 <!--Swift, SwiftUI-->
-  <img alt="SwiftUI" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/SwiftUI-034be7.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/></br>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
-  <img src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
+  <img alt="SwiftUI" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>&nbsp
+  <img src ="https://img.shields.io/badge/SwiftUI-034be7.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>&nbsp
+  <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
+  <img src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/></br>&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp
+  <img src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>&nbsp
   
   <br>
 
@@ -67,7 +67,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/UIKit-2396F3.svg?style=for-the-badge&logo=UIKit&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/SwiftUI-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Combine-67C52A?style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp</br>
+  <img src="https://img.shields.io/badge/RxSwift-de0afa?style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Tuist-5900f4?style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
+
 </div>
 
 <br>
