@@ -19,9 +19,9 @@
 		<img src="https://img.shields.io/badge/Youtube-EE0000?style=for-the-badge&logo=Youtube&logoColor=white" />
 	</a> -->
 	<br>
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rano-K&layout=compact)
+	
 </div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rano-K&layout=compact)
 
 
 
