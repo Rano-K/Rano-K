@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   	
 	
 </div>
-
+<br>
 
 <!--Studying-->
 <h3 align="center">📚 Studying 📚</h3>
