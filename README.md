@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--내용 부분-->
-<h3 align="center"></> Skill </></h3>
+<h3 align="center">✨ Skill ✨</h3>
 <div align="center">
 <!--Swift, SwiftUI-->
+<h6 align="center">FRONTEND</h6>
   <img alt="SwiftUI" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>&nbsp
   <img src ="https://img.shields.io/badge/SwiftUI-034be7.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>&nbsp
-  <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
   <img src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/></br>&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp
@@ -63,7 +63,9 @@ Here are some ideas to get you started:
 <br>
 
 <!-- fastAPI, Firebase, MySQL, SQLite, Flask, SpringBoot, tomcat, JSP -->
+<h6 align="center">BACKEND</h6>
 <div align="center">
+	<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/FastAPI-0009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
