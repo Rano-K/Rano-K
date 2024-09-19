@@ -68,12 +68,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<!--<h3 align="center">📚 Studying 📚</h3>-->
-<h3 align="center"> 
-	<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&duration=1000&pause=1000&color=1C9AF7&center=true&vCenter=true&multiline=true&width=50&height=50&lines=%3C%2F%3E" alt="Typing SVG" /></a>-->
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&duration=800&pause=10000&color=F7F7F7FF&center=true&vCenter=true&multiline=true&width=300&lines=📚 Studying 📚" alt="Typing SVG" /></a>
-	<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&duration=1000&pause=1000&color=1C9AF7&center=true&vCenter=true&multiline=true&width=50&height=50&lines=%3C%2F%3E" alt="Typing SVG" /></a>--> 
-</h3>
+<h3 align="center">📚 Studying 📚</h3>
+
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
