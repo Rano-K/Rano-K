@@ -21,7 +21,7 @@
 	<br>
 	
 </div>
-<div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rano-K&layout=compact)</div>
+<div><img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rano-K&layout=compact)"></div>
 
 
 
