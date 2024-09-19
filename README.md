@@ -60,6 +60,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
+<br>
+
 <!-- fastAPI, Firebase, MySQL, SQLite, Flask, SpringBoot, tomcat, JSP -->
 <div align="center">
 	<img src="https://img.shields.io/badge/FastAPI-0009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" />&nbsp
