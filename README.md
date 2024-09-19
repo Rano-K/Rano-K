@@ -40,11 +40,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--내용 부분-->
-<h3 align="center"> 
-	<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&duration=1000&pause=1000&color=1C9AF7&center=true&vCenter=true&multiline=true&width=50&height=50&lines=%3C%2F%3E" alt="Typing SVG" /></a>-->
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&duration=800&pause=10000&color=F7F7F7FF&center=true&vCenter=true&multiline=true&width=300&lines=</> Language </>" alt="Typing SVG" /></a>
-	<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&duration=1000&pause=1000&color=1C9AF7&center=true&vCenter=true&multiline=true&width=50&height=50&lines=%3C%2F%3E" alt="Typing SVG" /></a>--> 
-</h3>
+<h3 align="center"></> Language </></h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
