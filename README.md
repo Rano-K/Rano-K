@@ -60,6 +60,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
+<!-- fastAPI, Firebase, MySQL, SQLite, Flask, SpringBoot, tomcat, JSP -->
+<div align="center">
+	<img src="https://img.shields.io/badge/FastAPI-0009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" />&nbsp
+	<img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />&nbsp
+	<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
+	<img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" />&nbsp
+	<img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" />&nbsp
+	<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
+	<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?style=for-the-badge&logo=Apache Tomcat&logoColor=white" />&nbsp
+	<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+</div>
+
 <br>
 <!--Studying-->
 <h3 align="center">📚 Studying 📚</h3>
