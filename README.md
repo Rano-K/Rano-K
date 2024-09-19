@@ -73,7 +73,8 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?style=for-the-badge&logo=Apache Tomcat&logoColor=black" />&nbsp
-	<img src="https://img.shields.io/badge/JSP-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+	<img src="https://img.shields.io/badge/JSP-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp<br>
+	<img src="https://img.shields.io/badge/Amazon RDS-527FFF.svg?style=for-the-badge&logo=Amazon RDS&logoColor=white" />&nbsp
 </div>
 
 <br>
