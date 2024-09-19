@@ -19,7 +19,7 @@
 		<img src="https://img.shields.io/badge/Youtube-EE0000?style=for-the-badge&logo=Youtube&logoColor=white" />
 	</a> -->
 	<br>
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rano-K&show_icons=true&theme=radical)
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rano-K&show_icons=true&theme=transparent)
 </div>
 
 
