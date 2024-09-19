@@ -19,8 +19,8 @@
 		<img src="https://img.shields.io/badge/Youtube-EE0000?style=for-the-badge&logo=Youtube&logoColor=white" />
 	</a> -->
 	<br>
-	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rano-K)](https://github.com/Rano-K/github-readme-stats)
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rano-K)](https://github.com/Rano-K/github-readme-stats)
 
 
 
