@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>&nbsp
 </div>
   
-  <br>
+  
 <h6 align="center">DATA ANALIZE</h6>
 <div align="center">
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
-<br>
+
 
 <!-- fastAPI, Firebase, MySQL, SQLite, Flask, SpringBoot, tomcat, JSP -->
 <h6 align="center">BACKEND</h6>
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 	
 </div>
 
-<br>
+
 <!--Studying-->
 <h3 align="center">📚 Studying 📚</h3>
 
