@@ -1,7 +1,7 @@
 <Header>
   <div align=center>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=1C9AF7FF&height=100&section=header" />
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=1000&size=30&duration=1000&pause=1000&color=1C9AF7&center=true&vCenter=true&multiline=true&height=100&lines=IOS+Developer+;Minsoo+Kim's+Github" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=1000&size=30&duration=1000&pause=1000&color=1C9AF7&center=true&vCenter=true&multiline=true&height=100&lines=IOS+Developer+;Rano-K's+Github" alt="Typing SVG" /></a>
     <h3>🧰 Plz come to my Notion and see all my profile 🧰</h3>
     <div align=center>
 	<a href="mailto:minsoo0704@naver.com">
