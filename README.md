@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <!--내용 부분-->
 <h3 align="center"></> Language </></h3>
 <div align="center">
-  <img alt="SwiftUI" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=SwiftUI&logoColor=white"/>
+  <img alt="SwiftUI" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
 	
   <img alt="Python" src ="https://img.shields.io/badge/swiftUI.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
