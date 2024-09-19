@@ -64,8 +64,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/badge/UIKit-2396F3.svg?style=for-the-badge&logo=UIKit&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/SwiftUI-F05138.svg?style=for-the-badge&logo=SwiftUI&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/SwiftUI-67C52A?style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SwiftUI-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Combine-67C52A?style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp
 </div>
 
 <br>
