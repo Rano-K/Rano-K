@@ -18,7 +18,9 @@
 		<img src="https://img.shields.io/badge/Youtube-EE0000?style=for-the-badge&logo=Youtube&logoColor=white" />
 	</a> -->
 	<br>
+	[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 </div>
+
 
 
 <!--
