@@ -129,4 +129,6 @@ Here are some ideas to get you started:
 
   
 </body>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1C9AF7FF&height=100&section=footer" />
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=1C9AF7FF&height=100&section=footer" />
+</div>
