@@ -15,34 +15,34 @@
 
 <h3 align="center">✨ Skill, Studying, Tools ✨</h3>
 
-<!-- 세 섹션을 가로로 나열하는 컨테이너 -->
-<div style="display: flex; justify-content: center; gap: 50px;">
+<!-- Flex 컨테이너로 Skill, Studying, Tools를 가로로 나열 -->
+<div style="display: flex; justify-content: center; gap: 30px;">
 	<!-- Skill 섹션 -->
 	<div align="center">
 		<h4>Skill</h4>
 		<h6>FRONTEND</h6>
-		<img alt="SwiftUI" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>&nbsp
-		<img src ="https://img.shields.io/badge/SwiftUI-034be7.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>&nbsp
-		<img src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>&nbsp
+		<img alt="SwiftUI" src="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
+		<img src="https://img.shields.io/badge/SwiftUI-034be7.svg?&style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
+		<img src="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white" />&nbsp
 		<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-		<img src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp
-		<img src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>&nbsp
-		<h6>DATA ANALIZE</h6>
+		<img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp
+		<img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white" />&nbsp
+		<h6>DATA ANALYSIS</h6>
 		<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
 		<img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
 		<img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 		<h6>BACKEND</h6>
-		<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
-		<img src="https://img.shields.io/badge/FastAPI-0009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" />&nbsp
-		<img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />&nbsp
-		<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
-		<img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" />&nbsp
-		<img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" />&nbsp
-		<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
-		<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?style=for-the-badge&logo=Apache Tomcat&logoColor=black" />&nbsp
-		<img src="https://img.shields.io/badge/JSP-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-		<img src="https://img.shields.io/badge/Amazon RDS-527FFF.svg?style=for-the-badge&logo=Amazon RDS&logoColor=white" />&nbsp
-		<img src="https://img.shields.io/badge/Amazon EC2-FF9900.svg?style=for-the-badge&logo=Amazon EC2&logoColor=white" />&nbsp
+		<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" />&nbsp
+		<img src="https://img.shields.io/badge/FastAPI-0009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white" />&nbsp
+		<img src="https://img.shields.io/badge/Firebase-DD2C00.svg?&style=for-the-badge&logo=Firebase&logoColor=white" />&nbsp
+		<img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
+		<img src="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white" />&nbsp
+		<img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white" />&nbsp
+		<img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
+		<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=black" />&nbsp
+		<img src="https://img.shields.io/badge/JSP-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+		<img src="https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=for-the-badge&logo=Amazon RDS&logoColor=white" />&nbsp
+		<img src="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=for-the-badge&logo=Amazon EC2&logoColor=white" />&nbsp
 	</div>
 	<!-- Studying 섹션 -->
 	<div align="center">
