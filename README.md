@@ -28,7 +28,7 @@
 	<a href="https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0/id6474295841">
 		<figure>
 			<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/3a/81/ae3a817b-ecd8-fb47-854e-61867258b056/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp" width="40"/><br>
- 			<figcaption style="font-size: 8px;">오늘의 이야기</figcaption>	
+ 			<figcaption style="font-size: 6px;">오늘의 이야기</figcaption>	
 		</figure>
   	</a>
 </div>
