@@ -38,8 +38,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rano-K&show_icons=true&theme=merko)
+
 <!--내용 부분-->
-<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rano-K&show_icons=true&theme=merko)</div>
 <h3 align="center">✨ Skill ✨</h3>
 <div align="center">
 <!--Swift, SwiftUI-->
