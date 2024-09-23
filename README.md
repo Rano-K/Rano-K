@@ -10,7 +10,7 @@
 		<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 	</a>
 <br>
- 
+<hr>
  	
 		
 <!-- 	<a href="https://www.youtube.com/@Rano-K">
