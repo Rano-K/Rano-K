@@ -109,6 +109,8 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rano-K&hide=scss,jupyter%20notebook&layout=compact&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rano-K&hide=scss,jupyter%20notebook&layout=compact&theme=gruvbox_light)
+
 </div>
 
   
