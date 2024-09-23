@@ -17,14 +17,16 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 	<img src="https://img.shields.io/badge/Youtube-EE0000?style=for-the-badge&logo=Youtube&logoColor=white" />
 </a> -->
-	<br>
+	
 
 
 	
 </div>
+
 <div align="center">
 	<h3>Distributed Apps</h3>
  	<a href="https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0/id6474295841">
+  	<img src="https://drive.google.com/file/d/1Am3s4QOuLuuWkxksGOgcjlznN6vqrHjF/view?usp=drive_link"/>
 
 </div>
 
