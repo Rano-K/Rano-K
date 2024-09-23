@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rano-K&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rano-K&theme=tokyonight)
+
 <!--내용 부분-->
 <h3 align="center">✨ Skill ✨</h3>
 <div align="center">
@@ -104,7 +103,8 @@ Here are some ideas to get you started:
 <br>
 
 <br>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rano-K&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rano-K&theme=tokyonight)
 
   
 </body>
