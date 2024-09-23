@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--내용 부분-->
+<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 아이디&show_icons=true&theme=스타일)</div>
 <h3 align="center">✨ Skill ✨</h3>
 <div align="center">
 <!--Swift, SwiftUI-->
