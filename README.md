@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rano-K&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rano-K&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rano-K&langs_count=18&theme=tokyonight)
 
 </div>
 
