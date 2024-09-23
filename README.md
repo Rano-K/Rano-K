@@ -117,9 +117,10 @@ Here are some ideas to get you started:
 <br>
 
 <br>
-<div align="center">
-	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rano-K&count_private=true&show_icons=true&theme=tokyonight)
+
+<!--<div align="center">-->
+<div style="display: flex; justify-content: center; align-items: center;">	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rano-K&count_private=true&show_icons=true&layout=compact&theme=tokyonight)
 
 <!--Except Language at Stat : scss, jupyter notebook, java, CSS, HTML, JavaScript-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rano-K&hide=scss,jupyter%20notebook,java,CSS,HTML,JavaScript,CMake&layout=compact&theme=tokyonight)
