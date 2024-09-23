@@ -7,7 +7,7 @@
 		<img src="https://img.shields.io/badge/GMail-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 	</a>
 	<a href="https://rano-k.notion.site/Rano-K-871962e09b1d48049a7a44288847bbbd?pvs=4">
-		<img src="" />
+		<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 	</a>
 <br>
  
