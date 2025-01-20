@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Rano-K&count_private=true&show_icons=true&layout=compact&theme=tokyonight" alt="Anurag's GitHub stats"/>
 	<!--Except Language at Stat : scss, jupyter notebook, java, CSS, HTML, JavaScript-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rano-K&hide=scss,jupyter%20notebook,java,CSS,HTML,JavaScript,CMake,C++&layout=compact&theme=tokyonight" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rano-K&hide=scss,jupyter%20notebook,java,CSS,HTML,JavaScript,CMake,c%2B%2B&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </div>
 
 
