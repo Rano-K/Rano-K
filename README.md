@@ -23,7 +23,7 @@
 	
 </div>
 
-<div align="center">
+<!-- <div align="center">
 	<h3>Distributed Apps</h3>
 	<a href="https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0/id6474295841">
 		<figure>
@@ -31,7 +31,7 @@
  			<figcaption style="font-size: 6px;">오늘의 이야기</figcaption>	
 		</figure>
   	</a>
-</div>
+</div> -->
 
 <br>
 
